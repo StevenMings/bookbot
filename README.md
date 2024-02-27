@@ -1,2 +1,2 @@
 # bookbot
-Creating a book bot
+This is my first Bookbot!
